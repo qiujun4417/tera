@@ -1,4 +1,23 @@
-reated by .ignore support plugin (hsz.mobi)
+kip to content
+This repository
+Search
+Pull requests
+Issues
+Marketplace
+Gist
+ @qiujun4417
+ Sign out
+ Unwatch 1
+  Star 0
+ Fork 0 qiujun4417/diamond
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Settings Insights 
+Branch: master Find file Copy pathdiamond/.gitignore
+a9c44c9  on Dec 25 2016
+ qiujun project init
+0 contributors
+RawBlameHistory     
+165 lines (129 sloc)  2.49 KB
+# Created by .ignore support plugin (hsz.mobi)
 ### Maven template
 target/
 pom.xml.tag
